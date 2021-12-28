@@ -60,6 +60,7 @@ button{
     box-shadow: 5px 10px 15px black;
     font-size: medium;
     font-weight: bold;
+    margin-bottom: 300px;
 }
 /* @media screen and (max-width: 980px){
     img{
