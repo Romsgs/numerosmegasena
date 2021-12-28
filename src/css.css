@@ -28,14 +28,14 @@ main{margin: 50px;
     color: aliceblue;
 }
 img{
-    max-width: 500px;
+    max-width: 700px;
     margin-bottom: 50px;
     border-radius: 25px;
     
 }
 
 h1{
-    width: 500px;
+    max-width: 700px;
     display: flex;
     text-align: center;
     background-image: linear-gradient(to bottom left, green, darkgreen);
