@@ -28,11 +28,18 @@ main{margin: 50px;
     padding-bottom: 100px;
     color: aliceblue;
 }
-img{
+label{
+    margin-bottom: 50px;
+    color: aliceblue;
+    font-size: larger;
+}
+#mega{
     max-width: 400px;
     margin-bottom: 50px;
-    border-radius: 25px;
-    
+    border-radius: 25px;   
+}
+#pix{
+width: 300px;
 }
 
 h1{
@@ -61,7 +68,7 @@ button{
     box-shadow: 5px 10px 15px black;
     font-size: medium;
     font-weight: bold;
-    margin-bottom: 300px;
+    margin-bottom: 50px;
 }
  @media screen and (max-width: 980px){
      h1{
